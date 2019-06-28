@@ -1,2 +1,2 @@
 # garbagemonitoringsystem
-codes for garbage monitoring system
+code for garbage monitoring system
