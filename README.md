@@ -6,8 +6,8 @@ In this article i am going to talk about my first projects i made in field of in
 India is facing a large problem of garbage handling, when you drive around the city of Mumbai you will find garbage dustbins overflowing. Many places follow a fixed timing for garbage collection, some at mornings (like where I live) some at evening and few places have garbage collection both times.
 Lets take example of a park , on a crowded day dustbins in park will get full but as the timing to pick up trash is fixed they won't be cleared. This eventually leads to garbage overflow.
 To overcome this we made this project "Garbage monitoring System". This system aims to alert the authorities about the dustbin getting full so they can arrange for pick up.
-Demo system Consist of :/n
-Arduino UNO 1 /n
+Demo system Consist of : <br>
+Arduino UNO 1 
 ultrasonic sensor 1
 GSM module 1
 Breadboard 1
